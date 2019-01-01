@@ -59,7 +59,3 @@ build 目录是 client 构建后的前端静态资源，Node 服务器启动的�
 公共配置包含代码风格、eslint 等基础配置，在整个应用中，前后端共用一套公共的基础配置。
 
 scp -r . root@47.99.211.128:/root/seif-introduce/
-
-
-
-
